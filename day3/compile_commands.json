@@ -1,0 +1,12 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-std=c++2a"
+        ],
+    }
+]
+
